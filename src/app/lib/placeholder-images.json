@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "code-review-hero",
+      "description": "Abstract technological background representing code analysis and innovation",
+      "imageUrl": "https://picsum.photos/seed/codecanvas1/1200/400",
+      "imageHint": "technology code"
+    }
+  ]
+}
